@@ -16,7 +16,7 @@
 \author{Jan Kowalski}
 \semester{3}
 \fieldofstudy{Przykładowy Kierunek}
-\whichlogo{wimii}
+\whichlogo{wimii} %%% LOGA DO WYBRANIA: wb,we,wimii,wip,wis,wz
 \indexnumber{123456}
 
 \begin{document}
